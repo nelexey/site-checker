@@ -1,0 +1,7 @@
+https://www.google.com
+https://www.github.com
+https://www.nonexistentsite123.com
+https://www.stackoverflow.com
+https://www.fakewebsitexyz.org
+https://www.wikipedia.org
+https://www.invalidsite.example
